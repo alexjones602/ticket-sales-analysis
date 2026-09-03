@@ -1,0 +1,10 @@
+date,tickets_sold,instagram_followers,reel_views,days_advertised,day_of_week,month,student_term_time,weather,rainfall,temperature,reel_views_per_follower,campaign_duration,days_until_event,campaign_progress,is_weekend,is_student_holiday,temperature_celsius,rainfall_mm,has_rain,rain_severity,temperature_severity,weather_severity,overall_severity
+2026-07-19,9,49,674,14,Sunday,July,Summer Break,Sunny,0mm,24C,13.755102040816327,47 days,33,0.2978723404255319,1,1,24.0,0.0,0,0,0,0,0
+2026-07-23,11,57,898,18,Thursday,July,Summer Break,Cloudy,0mm,19C,15.75438596491228,47 days,29,0.3829787234042553,0,1,19.0,0.0,0,0,0,1,1
+2026-07-28,18,73,1535,23,Tuesday,July,Summer Break,Sunny,0mm,25C,21.027397260273972,47 days,24,0.48936170212765956,0,1,25.0,0.0,0,0,1,0,1
+2026-07-31,19,74,1569,26,Friday,July,Summer Break,Sunny,0mm,20C,21.2027027027027,47 days,21,0.5531914893617021,0,1,20.0,0.0,0,0,0,0,0
+2026-08-06,25,76,1593,32,Thursday,August,Summer Break,Cloudy,1mm,15C,20.960526315789473,47 days,15,0.6808510638297872,0,1,15.0,1.0,1,1,0,1,2
+2026-08-08,32,77,1603,34,Saturday,August,Summer Break,Sunny,0mm,20C,20.818181818181817,47 days,13,0.723404255319149,1,1,20.0,0.0,0,0,0,0,0
+2026-08-12,41,78,1642,38,Wednesday,August,Summer Break,Sunny,0mm,26C,21.05128205128205,47 days,9,0.8085106382978723,0,1,26.0,0.0,0,0,1,0,1
+2026-08-17,53,81,1687,43,Monday,August,Summer Break,Cloudy,1mm,20C,20.82716049382716,47 days,4,0.9148936170212766,0,1,20.0,1.0,1,1,0,1,2
+2026-08-21,98,91,1852,48,Friday,August,Summer Break,Sunny,0mm,21C,20.35164835164835,47 days,0,1.0,0,1,21.0,0.0,0,0,0,0,0
