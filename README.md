@@ -1,4 +1,4 @@
-# Finance Data Learning - Ticket Sales Analysis & Forecasting
+# Ticket Sales Analysis & Forecasting
 
 ## Project Overview
 
@@ -47,42 +47,51 @@ When a regression model was ran, the instagram followers variable had a coeffici
 
 The repository is organised into the following structure to seperate mainly data, analysis, Python code, statistical modelling, outputs and docments.
 
-finance-data-learning/
+```text
+ticket-sales-analysis/
+│
+├── data/
 |
-|-- data
+|   ├── cleaned/              # Cleaned datasets used for analysis
+│   ├── raw/                  # Original source data
+│   └── toy/                  # Small datasets used for testing
 |
-|-- docs
+├── docs/                     # Project documentation
+│   └── technical_report.pdf  # Final technical report
 |
-|-- models
+├── models/                   # Statistical model
+│
+├── notebooks/                # Jupyter notebooks documenting the analysis
 |
-|-- notebooks
-|
-|-- outputs
-|
-|-- src
-|
-|-- .gitignore
-|-- README.md
-|-- requirements.txt
+├── outputs/
+│   ├── cleaned_data/         # Processed datasets
+│   └── plots/                # Analysis visualisations
+│
+├── src/                      # Reusable Python code
+│
+├── requirements.txt          # Python dependencies
+├── .gitignore                # Files excluded from version control
+└── README.md                 # Project documentation
+```
 
 The project follows an organised workflow from the inital data preperation through to exploratory analysis, statistical testing and regression analysis. Notebooks provide a reproducible record of the whole analytical process in the project, whereas the src section contains reusable Python code.
 
-## Technical report
+## Technical Report
 
 The following report shows an explaination of the project in methodology, anaylsis and results terms. Covering the following:
 
-- Introduction
-- Business Problem
-- Dataset 
-- Data Cleaning
-- Exploratory Data Analysis 
-- Statistical Testing
-- Regression Modelling
-- Model Comparison
-- Key Findings
-- Business Implications
-- Limitations
-- Future Improvements
-- Conclusion
+- **Introduction** – project context, objectives and analytical approach
+- **Business Problem** – business context and key analytical questions
+- **Dataset** – data source, variables and dataset characteristics
+- **Data Cleaning** – preparation, validation and transformation
+- **Exploratory Data Analysis** – descriptive statistics, relationships and visualisations
+- **Statistical Testing** – hypotheses, statistical tests and interpretation
+- **Regression Modelling** – model development, predictors and performance
+- **Model Comparison** – comparison of predictive approaches
+- **Key Findings** – the most important insights from the analysis
+- **Business Implications** – how the findings could support decision-making
+- **Limitations** – limitations of the data and methodology
+- **Future Improvements** – potential improvements to the analysis and modelling
+- **Conclusion** – overall conclusions
 
-Read the Technical report:
+**[Read the Technical Report](docs/Technical_Report.pdf)**
