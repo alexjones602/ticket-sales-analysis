@@ -1,4 +1,4 @@
-# Ticket Sales Analysis & Forecasting
+# Ticket Sales Analysis & Predictive Modelling
 
 ## Project Overview
 
