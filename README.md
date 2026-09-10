@@ -5,8 +5,7 @@
 This project involves the analysis of ticket sales data which is collected from my electronic music event. Such data will be used to investigate factors regarding demand, attendance, revenue and others.
 
 ## Analytical Questions
-
-- AQ1 — Relationship
+- AQ1 - Relationship
 
 What relationships exist between the key variables in the ticket sales dataset?
 
@@ -30,11 +29,11 @@ Days advertised had the strongest correlation compared to other variables, with 
 
 - F2 - Weekend marketing wasn't especially significant regarding growth in event views
 
-Although mean event views were 13.2, compared to a mean of 11.92 on weekdays, the outcome of a hypothesis test produced a p-value of 0.427, showing tgat tge difference was not statistically significant at a 5% significance level.
+Although mean event views were 13.2, compared to a mean of 11.92 on weekdays, the outcome of a hypothesis test produced a p-value of 0.427, showing that the difference was not statistically significant at a 5% significance level.
 
 - F3 - Instagram followers were a positive and strong variable associated with the prediction of ticket sales
 
-When a regression model was ran, the instagram followers variable had a coefficient of 6.979 and a p-value of 0.0046, highlighting a statistically significant postitive correlation with ticket sales after taking taking other predictors into account. Such finding shows that building social mdeia audience reach may be a useful component of a ticket sales strategy.
+When a regression model was ran, the Instagram followers variable had a coefficient of 6.979 and a p-value of 0.0046, highlighting a statistically significant positive correlation with ticket sales after taking other predictors into account. Such finding shows that building social media audience reach may be a useful component of a ticket sales strategy.
 
 ## Technologies 
 - Pandas
@@ -45,7 +44,7 @@ When a regression model was ran, the instagram followers variable had a coeffici
 
 ## Repository Structure 
 
-The repository is organised into the following structure to seperate mainly data, analysis, Python code, statistical modelling, outputs and docments.
+The repository is organised into the following structure to seperate mainly data, analysis, Python code, statistical modelling, outputs and documents.
 
 ```text
 ticket-sales-analysis/
@@ -74,11 +73,11 @@ ticket-sales-analysis/
 └── README.md                 # Project documentation
 ```
 
-The project follows an organised workflow from the inital data preperation through to exploratory analysis, statistical testing and regression analysis. Notebooks provide a reproducible record of the whole analytical process in the project, whereas the src section contains reusable Python code.
+The project follows an organised workflow from the inital data preparation through to exploratory analysis, statistical testing and regression analysis. Notebooks provide a reproducible record of the whole analytical process in the project, whereas the src section contains reusable Python code.
 
 ## Technical Report
 
-The following report shows an explaination of the project in methodology, anaylsis and results terms. Covering the following:
+The following report shows an explanation of the project in methodology, analysis and results terms. Covering the following:
 
 - **Introduction** – project context, objectives and analytical approach
 - **Business Problem** – business context and key analytical questions
