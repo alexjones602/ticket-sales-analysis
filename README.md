@@ -94,4 +94,4 @@ The following report shows an explaination of the project in methodology, anayls
 - **Future Improvements** – potential improvements to the analysis and modelling
 - **Conclusion** – overall conclusions
 
-**[Read the Technical Report](docs/Technical_Report.pdf)**
+**[Read the Technical Report](docs/technical_report.pdf)**
